@@ -1,0 +1,19 @@
+.Container{
+   
+    height: 100vh;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.boxy{
+    display: flex;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    flex-direction: column;
+}
